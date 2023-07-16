@@ -60,3 +60,4 @@ libraries/
 packages/
 rt-thread/
 xip/
+/Debug/
