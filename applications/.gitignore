@@ -51,12 +51,5 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# all folders except applications
-.settings/
-board/
-build/
-figures/
-libraries/
-packages/
-rt-thread/
-xip/
+# exclude lvgl
+lvgl/
